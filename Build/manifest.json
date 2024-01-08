@@ -1,0 +1,10 @@
+{
+    "name": "Niko",
+    "version_number": "0.1.0",
+    "website_url": "",
+    "description": "Just Niko",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+		"BunyaPineTree-ModelReplacementAPI-2.3.1"
+    ]
+}

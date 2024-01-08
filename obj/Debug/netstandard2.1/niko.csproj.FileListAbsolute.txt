@@ -1,0 +1,16 @@
+C:\Users\akronman1\Documents\niko\bin\Debug\netstandard2.1\niko.deps.json
+C:\Users\akronman1\Documents\niko\bin\Debug\netstandard2.1\niko.dll
+C:\Users\akronman1\Documents\niko\bin\Debug\netstandard2.1\niko.pdb
+C:\Users\akronman1\Documents\niko\bin\Debug\netstandard2.1\ModelReplacementAPI.dll
+C:\Users\akronman1\Documents\niko\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\akronman1\Documents\niko\bin\Debug\netstandard2.1\Unity.InputSystem.ForUI.dll
+C:\Users\akronman1\Documents\niko\bin\Debug\netstandard2.1\Unity.Netcode.Runtime.dll
+C:\Users\akronman1\Documents\niko\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\akronman1\Documents\niko\obj\Debug\netstandard2.1\niko.csproj.AssemblyReference.cache
+C:\Users\akronman1\Documents\niko\obj\Debug\netstandard2.1\niko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akronman1\Documents\niko\obj\Debug\netstandard2.1\niko.AssemblyInfoInputs.cache
+C:\Users\akronman1\Documents\niko\obj\Debug\netstandard2.1\niko.AssemblyInfo.cs
+C:\Users\akronman1\Documents\niko\obj\Debug\netstandard2.1\niko.csproj.CoreCompileInputs.cache
+C:\Users\akronman1\Documents\niko\obj\Debug\netstandard2.1\niko.csproj.CopyComplete
+C:\Users\akronman1\Documents\niko\obj\Debug\netstandard2.1\niko.dll
+C:\Users\akronman1\Documents\niko\obj\Debug\netstandard2.1\niko.pdb
