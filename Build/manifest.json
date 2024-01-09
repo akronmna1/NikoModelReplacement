@@ -1,10 +1,10 @@
 {
     "name": "Niko",
-    "version_number": "0.1.0",
-    "website_url": "",
-    "description": "Just Niko",
+    "version_number": "0.2.0",
+    "website_url": "https://github.com/akronmna1/NikoModelReplacement",
+    "description": "Niko from OneShot",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-		"BunyaPineTree-ModelReplacementAPI-2.3.1"
+		"BunyaPineTree-ModelReplacementAPI-2.3.6"
     ]
 }
